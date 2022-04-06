@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+MASHLE: Magic and muscles
 
 You can use the [editor on GitHub](https://github.com/Kishijin/kishijin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
