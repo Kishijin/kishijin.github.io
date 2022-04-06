@@ -1,8 +1,10 @@
-MASHLE: Magic and muscles
+### MASHLE: Magic and muscles
+Story and art by: HAJIME KOMOTO
+# Description
+In the magic realm, magic is everything - everyone can use it, and one's skill determines their social status. Deep in the forest, oblivious to the ways of the world, lives Mash. Thanks to his daily training, he's become a fitness God. When Mash is discovered, he has no choice but to enroll in magic school, where he must beat the competition without revealing his secret - he can't use magic!
 
-You can use the [editor on GitHub](https://github.com/Kishijin/kishijin.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Mash just wants to live in peace with his father in the forest. But the only way he'll ever be accepted in the magic realm is by attending magic school and becoming a Divine Visionary an exceptional student revered as one of the chosen. But without an ounce of magic to his name, Mash will have to punch his way to the top spot.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
