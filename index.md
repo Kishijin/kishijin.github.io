@@ -5,4 +5,7 @@ In the magic realm, magic is everything - everyone can use it, and one's skill d
 
 Mash just wants to live in peace with his father in the forest. But the only way he'll ever be accepted in the magic realm is by attending magic school and becoming a Divine Visionary an exceptional student revered as one of the chosen. But without an ounce of magic to his name, Mash will have to punch his way to the top spot.
 
-
+## Main Character:
+![alt text](mashle_vol1.jpg)
+**Mashle Burndead**
+ 
